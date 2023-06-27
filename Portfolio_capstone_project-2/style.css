@@ -1,0 +1,27 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: end;
+    align-items: center;
+    
+}
+#title{
+    background-image: url(./images/computer_design.avif);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+h3{
+    padding: 0px 30px 100px 0px;
+    font-size: 3rem;
+    color: white;
+    
+}
+.full{
+    text-decoration: underline;
+}
